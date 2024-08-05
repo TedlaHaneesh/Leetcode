@@ -22,10 +22,15 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TedlaHaneesh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/TedlaHaneesh/Leetcode/tree/master/0035-search-insert-position) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TedlaHaneesh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/TedlaHaneesh/Leetcode/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TedlaHaneesh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
