@@ -35,11 +35,13 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TedlaHaneesh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/TedlaHaneesh/Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TedlaHaneesh/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TedlaHaneesh/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
