@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/TedlaHaneesh/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/TedlaHaneesh/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/TedlaHaneesh/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/TedlaHaneesh/Leetcode/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/1013-fibonacci-number) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TedlaHaneesh/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/TedlaHaneesh/Leetcode/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/TedlaHaneesh/Leetcode/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
