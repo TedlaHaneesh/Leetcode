@@ -6,12 +6,14 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/TedlaHaneesh/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/TedlaHaneesh/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/TedlaHaneesh/Leetcode/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/TedlaHaneesh/Leetcode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/TedlaHaneesh/Leetcode/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/TedlaHaneesh/Leetcode/tree/master/0044-wildcard-matching) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/TedlaHaneesh/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
