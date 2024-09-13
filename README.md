@@ -35,6 +35,7 @@
 | [0035-search-insert-position](https://github.com/TedlaHaneesh/Leetcode/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/TedlaHaneesh/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/TedlaHaneesh/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/TedlaHaneesh/Leetcode/tree/master/0068-text-justification) |
 | [0283-move-zeroes](https://github.com/TedlaHaneesh/Leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TedlaHaneesh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -54,6 +55,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/TedlaHaneesh/Leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/TedlaHaneesh/Leetcode/tree/master/0068-text-justification) |
 ## Stack
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/TedlaHaneesh/Leetcode/tree/master/0063-unique-paths-ii) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/TedlaHaneesh/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
