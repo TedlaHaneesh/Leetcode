@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/TedlaHaneesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TedlaHaneesh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/TedlaHaneesh/Leetcode/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/TedlaHaneesh/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -47,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TedlaHaneesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TedlaHaneesh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/TedlaHaneesh/Leetcode/tree/master/0283-move-zeroes) |
@@ -74,6 +76,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TedlaHaneesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/TedlaHaneesh/Leetcode/tree/master/0044-wildcard-matching) |
 ## Combinatorics
 |  |
