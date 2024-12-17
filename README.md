@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TedlaHaneesh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/TedlaHaneesh/Leetcode/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/TedlaHaneesh/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/TedlaHaneesh/Leetcode/tree/master/0068-text-justification) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
