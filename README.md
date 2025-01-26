@@ -62,6 +62,7 @@
 | [0020-valid-parentheses](https://github.com/TedlaHaneesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/TedlaHaneesh/Leetcode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/TedlaHaneesh/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/TedlaHaneesh/Leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/TedlaHaneesh/Leetcode/tree/master/0125-valid-palindrome) |
