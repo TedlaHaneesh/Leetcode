@@ -53,6 +53,7 @@
 | [0015-3sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TedlaHaneesh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/TedlaHaneesh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/TedlaHaneesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0344-reverse-string) |
 ## String
@@ -63,6 +64,7 @@
 | [0044-wildcard-matching](https://github.com/TedlaHaneesh/Leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/TedlaHaneesh/Leetcode/tree/master/0068-text-justification) |
+| [0125-valid-palindrome](https://github.com/TedlaHaneesh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0344-reverse-string) |
 ## Stack
 |  |
