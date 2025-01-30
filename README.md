@@ -40,6 +40,7 @@
 | [0063-unique-paths-ii](https://github.com/TedlaHaneesh/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/TedlaHaneesh/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/TedlaHaneesh/Leetcode/tree/master/0068-text-justification) |
+| [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/TedlaHaneesh/Leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TedlaHaneesh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -101,8 +102,18 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
