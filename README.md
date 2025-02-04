@@ -45,6 +45,7 @@
 | [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/TedlaHaneesh/Leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TedlaHaneesh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TedlaHaneesh/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/TedlaHaneesh/Leetcode/tree/master/3429-special-array-i) |
 ## Binary Search
