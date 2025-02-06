@@ -44,6 +44,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TedlaHaneesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/TedlaHaneesh/Leetcode/tree/master/0283-move-zeroes) |
+| [1364-tuple-with-same-product](https://github.com/TedlaHaneesh/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TedlaHaneesh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TedlaHaneesh/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
+| [1364-tuple-with-same-product](https://github.com/TedlaHaneesh/Leetcode/tree/master/1364-tuple-with-same-product) |
 ## Sorting
 |  |
 | ------- |
@@ -121,4 +123,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
+| [1364-tuple-with-same-product](https://github.com/TedlaHaneesh/Leetcode/tree/master/1364-tuple-with-same-product) |
 <!---LeetCode Topics End-->
