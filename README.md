@@ -112,6 +112,7 @@
 | [0001-two-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/TedlaHaneesh/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [2434-design-a-number-container-system](https://github.com/TedlaHaneesh/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TedlaHaneesh/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
@@ -127,4 +128,16 @@
 | ------- |
 | [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/TedlaHaneesh/Leetcode/tree/master/1364-tuple-with-same-product) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/TedlaHaneesh/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/TedlaHaneesh/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/TedlaHaneesh/Leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
