@@ -77,11 +77,13 @@
 | [0068-text-justification](https://github.com/TedlaHaneesh/Leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/TedlaHaneesh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0344-reverse-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/TedlaHaneesh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/TedlaHaneesh/Leetcode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TedlaHaneesh/Leetcode/tree/master/0020-valid-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/TedlaHaneesh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/TedlaHaneesh/Leetcode/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/TedlaHaneesh/Leetcode/tree/master/0068-text-justification) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/TedlaHaneesh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TedlaHaneesh/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/TedlaHaneesh/Leetcode/tree/master/3447-clear-digits) |
 ## Hash Table
