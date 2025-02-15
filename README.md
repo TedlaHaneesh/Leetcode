@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/TedlaHaneesh/Leetcode/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/1013-fibonacci-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/TedlaHaneesh/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/TedlaHaneesh/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/TedlaHaneesh/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/TedlaHaneesh/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
