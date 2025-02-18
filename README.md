@@ -82,12 +82,14 @@
 | [0344-reverse-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0344-reverse-string) |
 | [1160-letter-tile-possibilities](https://github.com/TedlaHaneesh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TedlaHaneesh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/TedlaHaneesh/Leetcode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TedlaHaneesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TedlaHaneesh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/TedlaHaneesh/Leetcode/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
@@ -104,6 +106,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/TedlaHaneesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/TedlaHaneesh/Leetcode/tree/master/0044-wildcard-matching) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -165,5 +168,6 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/TedlaHaneesh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/TedlaHaneesh/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/TedlaHaneesh/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
