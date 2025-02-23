@@ -46,6 +46,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TedlaHaneesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/TedlaHaneesh/Leetcode/tree/master/0283-move-zeroes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TedlaHaneesh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/TedlaHaneesh/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/TedlaHaneesh/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TedlaHaneesh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TedlaHaneesh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/TedlaHaneesh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/TedlaHaneesh/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TedlaHaneesh/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TedlaHaneesh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Counting
 |  |
 | ------- |
@@ -175,6 +178,7 @@
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TedlaHaneesh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TedlaHaneesh/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -187,5 +191,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TedlaHaneesh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/TedlaHaneesh/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
