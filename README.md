@@ -10,6 +10,7 @@
 | [0062-unique-paths](https://github.com/TedlaHaneesh/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/TedlaHaneesh/Leetcode/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/TedlaHaneesh/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/TedlaHaneesh/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
@@ -20,6 +21,7 @@
 | [0063-unique-paths-ii](https://github.com/TedlaHaneesh/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TedlaHaneesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0283-move-zeroes](https://github.com/TedlaHaneesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TedlaHaneesh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/TedlaHaneesh/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/TedlaHaneesh/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TedlaHaneesh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -201,4 +204,8 @@
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/TedlaHaneesh/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
