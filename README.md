@@ -21,6 +21,7 @@
 | [0063-unique-paths-ii](https://github.com/TedlaHaneesh/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TedlaHaneesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/TedlaHaneesh/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TedlaHaneesh/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
@@ -88,6 +89,7 @@
 | [0125-valid-palindrome](https://github.com/TedlaHaneesh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0344-reverse-string) |
 | [1160-letter-tile-possibilities](https://github.com/TedlaHaneesh/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/TedlaHaneesh/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TedlaHaneesh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/TedlaHaneesh/Leetcode/tree/master/3447-clear-digits) |
