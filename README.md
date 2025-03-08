@@ -100,6 +100,7 @@
 | [1170-shortest-common-supersequence](https://github.com/TedlaHaneesh/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TedlaHaneesh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/TedlaHaneesh/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/TedlaHaneesh/Leetcode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -223,4 +224,8 @@
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/TedlaHaneesh/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
