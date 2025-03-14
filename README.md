@@ -53,6 +53,7 @@
 | [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/TedlaHaneesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TedlaHaneesh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/TedlaHaneesh/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/TedlaHaneesh/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/TedlaHaneesh/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/TedlaHaneesh/Leetcode/tree/master/0035-search-insert-position) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/TedlaHaneesh/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Two Pointers
 |  |
 | ------- |
