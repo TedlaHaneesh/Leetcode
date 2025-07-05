@@ -9,6 +9,7 @@
 | [0060-permutation-sequence](https://github.com/TedlaHaneesh/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/TedlaHaneesh/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/TedlaHaneesh/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/TedlaHaneesh/Leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/TedlaHaneesh/Leetcode/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/TedlaHaneesh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/TedlaHaneesh/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -51,6 +52,7 @@
 | [0068-text-justification](https://github.com/TedlaHaneesh/Leetcode/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TedlaHaneesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/TedlaHaneesh/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/TedlaHaneesh/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TedlaHaneesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TedlaHaneesh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/TedlaHaneesh/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -84,6 +86,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TedlaHaneesh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/TedlaHaneesh/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/TedlaHaneesh/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TedlaHaneesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TedlaHaneesh/Leetcode/tree/master/0344-reverse-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/TedlaHaneesh/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
