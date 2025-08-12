@@ -249,4 +249,8 @@
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/TedlaHaneesh/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/TedlaHaneesh/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
